@@ -1,0 +1,53 @@
+body, html{
+    height: 100%;
+}
+
+.profile-heading{
+    height: 100%;
+    color: rgba(6, 155, 147, 0.644);
+    background-color: white;
+}
+
+.profile-image{
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.contact-heading{
+    height: 100%;
+    color: rgba(6, 155, 147, 0.644);
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.contact-info{
+    color: gray;
+}
+
+.section-one{
+    height: 100%;
+    color: rgba(6, 155, 147, 0.644);
+    background-color:white;
+}
+
+.section-one-content{
+    height: 100%;
+    color: black;
+}
+
+.experience-heading{
+    height: 50px;
+    width: 100%;
+    background-color: rgba(6, 155, 147, 0.644);
+    padding-left: 50px;
+    padding-right: 100px;
+}
+
+.section-one-heading {
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
